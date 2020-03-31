@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/paldepind/flyd-scanmerge",
   "dependencies": {
-    "flyd": "0.1.x"
+    "flyd": "0.2.8"
   }
 }
